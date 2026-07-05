@@ -1,0 +1,16 @@
+<svg viewBox="0 0 640 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="lmLogoTitle">
+  <title id="lmLogoTitle">Leponiemen Maatila, vuodesta 1888</title>
+  <g fill="none" stroke="#2B2018" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- minimal highland-cattle horn mark -->
+    <path d="M62 108c-20-8-34-30-30-54 3-16 16-27 24-18 7 8 2 22-6 30" />
+    <path d="M118 108c20-8 34-30 30-54-3-16-16-27-24-18-7 8-2 22 6 30" />
+    <path d="M60 108c8-14 26-22 30-22h30c4 0 22 8 30 22" />
+    <circle cx="70" cy="128" r="4" fill="#2B2018" stroke="none" />
+    <circle cx="110" cy="128" r="4" fill="#2B2018" stroke="none" />
+    <path d="M74 146c8 8 18 12 26 12s18-4 26-12" />
+  </g>
+  <text x="180" y="98" font-family="'Spectral', Georgia, serif" font-size="42" letter-spacing="2" fill="#2B2018">Leponiemen</text>
+  <text x="180" y="146" font-family="'Spectral', Georgia, serif" font-size="42" letter-spacing="2" fill="#2B2018">Maatila</text>
+  <line x1="182" y1="164" x2="560" y2="164" stroke="#AF5A34" stroke-width="2" />
+  <text x="182" y="188" font-family="'Public Sans', Arial, sans-serif" font-size="16" letter-spacing="3" fill="#8F4527">TUNKKARI · VETELI · VUODESTA 1888</text>
+</svg>
